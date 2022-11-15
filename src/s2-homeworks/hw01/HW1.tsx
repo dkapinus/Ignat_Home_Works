@@ -35,7 +35,7 @@ export const message0: MessageType = {
         name: 'Bret Pit',  // можно менять
     },
     message: {
-        text: 'Yo Bro', // можно менять
+        text: 'Yo Bro, how are you', // можно менять
         time: '22:00', // можно менять
     },
 }
