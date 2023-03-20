@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/Ignat_Home_Works/dkapinus.github.io/static/css/main.f4474e1f.css",
-    "main.js": "/Ignat_Home_Works/dkapinus.github.io/static/js/main.a67287e2.js",
-    "static/js/787.66cb4309.chunk.js": "/Ignat_Home_Works/dkapinus.github.io/static/js/787.66cb4309.chunk.js",
-    "static/media/avatar.png": "/Ignat_Home_Works/dkapinus.github.io/static/media/avatar.d947cb9d0d13765666b6.png",
-    "static/media/404.svg": "/Ignat_Home_Works/dkapinus.github.io/static/media/404.dae7af4892f2a3abe805a174178919f2.svg",
-    "static/media/closeOutline.svg": "/Ignat_Home_Works/dkapinus.github.io/static/media/closeOutline.91a6693133923612a0702421ab3e9923.svg",
-    "static/media/editIcon.svg": "/Ignat_Home_Works/dkapinus.github.io/static/media/editIcon.11c8e1c42f9a4eae81897d68e091eb42.svg",
-    "index.html": "/Ignat_Home_Works/dkapinus.github.io/index.html",
-    "static/media/checked.svg": "/Ignat_Home_Works/dkapinus.github.io/static/media/checked.0b6a1bcf5d417ff0a947.svg",
-    "static/media/burger.svg": "/Ignat_Home_Works/dkapinus.github.io/static/media/burger.e4e6b98e4ee0b2dfcd76d02a9eed2e34.svg",
-    "main.f4474e1f.css.map": "/Ignat_Home_Works/dkapinus.github.io/static/css/main.f4474e1f.css.map",
-    "main.a67287e2.js.map": "/Ignat_Home_Works/dkapinus.github.io/static/js/main.a67287e2.js.map",
-    "787.66cb4309.chunk.js.map": "/Ignat_Home_Works/dkapinus.github.io/static/js/787.66cb4309.chunk.js.map"
+    "main.css": "/Ignat_Home_Works/static/css/main.af6b1639.css",
+    "main.js": "/Ignat_Home_Works/static/js/main.16706129.js",
+    "static/js/787.66cb4309.chunk.js": "/Ignat_Home_Works/static/js/787.66cb4309.chunk.js",
+    "static/media/avatar.png": "/Ignat_Home_Works/static/media/avatar.d947cb9d0d13765666b6.png",
+    "static/media/404.svg": "/Ignat_Home_Works/static/media/404.dae7af4892f2a3abe805a174178919f2.svg",
+    "static/media/closeOutline.svg": "/Ignat_Home_Works/static/media/closeOutline.91a6693133923612a0702421ab3e9923.svg",
+    "static/media/editIcon.svg": "/Ignat_Home_Works/static/media/editIcon.11c8e1c42f9a4eae81897d68e091eb42.svg",
+    "static/media/checked.svg": "/Ignat_Home_Works/static/media/checked.0b6a1bcf5d417ff0a947.svg",
+    "index.html": "/Ignat_Home_Works/index.html",
+    "static/media/burger.svg": "/Ignat_Home_Works/static/media/burger.e4e6b98e4ee0b2dfcd76d02a9eed2e34.svg",
+    "main.af6b1639.css.map": "/Ignat_Home_Works/static/css/main.af6b1639.css.map",
+    "main.16706129.js.map": "/Ignat_Home_Works/static/js/main.16706129.js.map",
+    "787.66cb4309.chunk.js.map": "/Ignat_Home_Works/static/js/787.66cb4309.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f4474e1f.css",
-    "static/js/main.a67287e2.js"
+    "static/css/main.af6b1639.css",
+    "static/js/main.16706129.js"
   ]
 }
